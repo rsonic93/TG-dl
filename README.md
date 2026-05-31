@@ -1,21 +1,27 @@
-# دانلود فایل تلگرام به گیتهاب
+# 🚀 دانلود فایل تلگرام به گیتهاب با اینترنت ملی ایران
 با این پروژه میتوانید فایل های تلگرام خود را به درون گیتهاب ریپازیتوری خود منتقل کنید و از آنجا دانلود کنید.
 
 
-# آموزش استفاده 
-- پروژه را fork کنید.
+# ⚙️ آموزش نصب و استفاده
+- به حساب کاربری خود در گیتهاب لاگین کنید.
+- از بالای همین صفحه گزینه ی fork را بزنید.
+- در صفحه بعدی create fork را بزنید.
 - به سربرگ Actions بروید.
 - در قسمت راست به بخش all workflows بروید.
-- امکانات این پروژه بصورت لیست شده در این بخش قابل مشاهده است روی download بزنید.
-- آدرس فایل در تلگرام را وارد کنید و سپس run workflow را بزنید و منتظر بمانید.
+- ابتدا باید به تلگرام خود لاگین کنید. گزینه ی ورود به تلگرام را بزنید و در سمت چپ شماره خود را بزنید.
+- در اولین بار تنها باید شماره موبایل تلگرامی خود را وارد کنید نیاز به ورود کد تایید نیست.
+- وقتی کد ورود به تلگرام یا موبایلتان ارسال شد بار دوم با شماره موبایل و کد ورود run workflow را بزنید.
+- حالا شما وارد ورک فلو شده اید و میتوانید هر فایلی را به گیتهاب خود منتقل کنید.
+- برای دانلود به قسمت all workflows بروید و روی دانلود بزنید
+- لینک تلگرامی را وارد کنید و run workflow را بزنید.
 - فایل شما دریافت و درون پوشه downloads ذخیره سازی میشود.
 
-> [!WARNING]
-> **Important Notice for Users**
->
-> - This tool is intended to run **locally on your own machine** only
-> - **Do NOT commit downloaded videos** or any media files to this repository or your fork
-> - **Do NOT use GitHub Actions** to download and store videos on GitHub's infrastructure
-> - All video formats (`.mp4`, `.webm`, `.mkv`, etc.) are blocked via `.gitignore`
->
-> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
+# 🔗 اطلاع رسانی ها 
+برای اطلاع رسانی های بعدی در صورت قطعی این پروژه یا معرفی پروژه ای بهتر در کانال پیام رسان بله عضو باشید :‌
+https://ble.ir/avasam_edu 
+
+## 🤖 ربات دانلود فایل از تلگرام در BALE
+اگر به هر دلیلی دسترسی به اکانت گیتهاب نداشتید میتوانید از ربات دانلود فایل از تلگرام درون پیام رسان ایرانی بله استفاده کنید. ایدی ربات 
+https://ble.ir/ourgrambot 
+
+موفق باشید
